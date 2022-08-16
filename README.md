@@ -1,2 +1,2 @@
 # wordpress-update-wp_options
-Update all url to a news wordpress instalation
+Update all url to a new wordpress instalation
